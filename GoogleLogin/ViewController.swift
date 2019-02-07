@@ -118,6 +118,7 @@ class ViewController: UIViewController, GIDSignInUIDelegate, GIDSignInDelegate {
         
         return label
     }()
+    
     func setupViews() {
         
         view.backgroundColor = UIColor.rgb(red: 249, green: 250, blue: 251)
